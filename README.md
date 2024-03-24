@@ -7,3 +7,26 @@
 
 
 ![ManoSriram - Flow Chart](https://ik.imagekit.io/09vbfltqtgx/COM_MICRO-Page-1_zQq3E_sKrD.png)
+
+
+Run Command
+
+``` shell
+npm i 
+docker run -p 5672:5672 rabbitmq
+
+cd ..
+cd auth-service/
+npm i 
+nodemon
+
+cd ..
+cd product-service/
+npm i 
+nodemon
+
+cd order-service/
+npm i 
+nodemon
+
+```
