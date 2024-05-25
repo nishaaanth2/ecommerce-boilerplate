@@ -8,7 +8,7 @@
 
 ![ManoSriram - Flow Chart](https://ik.imagekit.io/09vbfltqtgx/COM_MICRO-Page-1_zQq3E_sKrD.png)
 
-![PostMan]((https://www.postman.com/nyowapi/workspace/ecommerce/overview))
+[PostMan](https://www.postman.com/nyowapi/workspace/ecommerce/overview)
 
 Run Command
 
